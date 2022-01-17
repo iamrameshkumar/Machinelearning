@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonClassifierApplication4", "PythonClassifierApplication4.pyproj", "{99738F35-9F44-4B51-99B8-A3FCA66427FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99738F35-9F44-4B51-99B8-A3FCA66427FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99738F35-9F44-4B51-99B8-A3FCA66427FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9EB613-8EFE-4BDA-99EA-C8F962DB95A1}
+	EndGlobalSection
+EndGlobal
